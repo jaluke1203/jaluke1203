@@ -1,35 +1,31 @@
 # Jacob Luke
 
-### **Machine Learning Hardware/Software Integration Expert | Machine Vision Specialist**
+### **Hardware/Algorithm Co-Designer | Deployment Optimization for Autonomous Systems**
 📧 **Email:** [jaluke1203@gmail.com](mailto:jaluke1203@gmail.com) | 🔗 **LinkedIn:** [Your Link Here]
 
-I operate at the critical intersection of computer vision algorithms and edge hardware deployment. I specialize in co-designing and optimizing machine vision pipelines to run efficiently on resource-constrained physical devices. My focus is solving the **"compute bottleneck"**—knowing exactly how to modify an algorithm's architecture so it pairs perfectly with physical hardware constraints.
+I bridge the gap between physical hardware architecture and algorithmic optimization for autonomous systems operating under strict environmental and hardware constraints. My expertise lies in the true **co-design loop**: configuring physical hardware pipelines (current draw profiling, sensor integration, analog instrumentation) to maximize algorithmic execution, while simultaneously compressing deep learning and state tracking models to respect rigid hardware boundaries. 
+
+When hardware limits cannot be altered, I optimize the software to fit the silicon; when a custom system can be engineered, I tailor the hardware topology to accelerate the math.
 
 ---
 
-## 🛠️ Core Expertise & System Toolbelt
+## 🛠️ Balanced Systems Toolbelt
 
-*   **Algorithmic Optimization:** CNN Architecture Optimization (`MobileNets`, `ConvNeXt-V2`), Model Compression, Iterative Pruning, Train-Prune-Fine-tune Cycles, Sequence Modeling (`LSTMs`, `RNNs`).
-*   **Hardware Integration & Verification:** Physical Hardware Assembly, Prototyping, Telemetry & Power Profiling, Current Draw Analysis, Analog Instrumentation.
-*   **Developer Stack:** `Python`, `PyTorch`, `TensorFlow`, `Git`/`GitHub` version control, Data Analysis Pipelines (`NumPy`, `Pandas`, CSV telemetry parsing).
+*   **Hardware Co-Design & Prototyping:** Physical Hardware Assembly, Custom System Interconnects, Power Delivery Network (PDN) Telemetry, Differential Current Draw Profiling, Instrumentation Amplifiers, Sensor-to-Microcontroller Prototyping.
+*   **Software-Aware Optimization:** CNN Footprint Compaction (`MobileNets`, `ConvNeXt-V2`), Structural Layer Pruning, Train-Prune-Fine-tune Cycles, Sequence & State Modeling (`LSTMs`, Stateful/Stateless `RNNs`), Data Extraction Pipelines (`NumPy`, `Pandas`, CSV parsing).
+*   **Version Control & Toolstack:** `Git`/`GitHub` configuration management, `Python`, `PyTorch`, `TensorFlow`.
 
 ---
 
 ## 🚀 Featured Engineering Projects
 
-### 👁️ Deep Learning Architecture Optimization & Model Compression
-**Focus:** *Algorithmic efficiency for edge machine vision hardware.*
-*   Optimized deep learning vision models for edge deployment, successfully **reducing parameter counts from 5.0M to 2.7M** (a 46% footprint reduction).
-*   Replaced high-overhead standard convolutions with highly efficient **depthwise separable convolutions** to drastically reduce floating-point operations (FLOPs).
-*   Executed systematic **Train-Prune-Fine-tune cycles** to compress convolutional neural networks (CNNs) while strictly protecting target accuracy thresholds for real-time inference.
-
-### 🔌 Collaborative Hardware Engineering & Telemetry Analysis
-**Focus:** *Physical hardware assembly, performance tracking, and system verification.*
-*   Managed physical hardware assembly, component integration, and benchmarking protocols for a multi-subsystem collaborative engineering deployment.
-*   Developed custom `Python` data pipelines to parse large-scale CSV telemetry datasets, systematically tracking system current draw and power performance under extreme operational stress.
-*   Utilized `Git` and version control structures to manage a collaborative team repository, tracking hardware performance variables alongside active software changes.
+### 🤖 Autonomous Pipeline Telemetry Profiler & Algorithm Co-Designer
+**Focus:** *Evaluating physical hardware performance metrics against compressed vision networks.*
+*   Engineered a hardware-aware verification framework to run resource-intensive perception networks on constrained computing nodes, executing systematic **Train-Prune-Fine-tune cycles to compress models from 5.0M to 2.7M parameters** (46% footprint reduction).
+*   Replaced classic standard convolutions with highly efficient **depthwise separable convolutions** to drastically minimize the computational workload on embedded processing hardware.
+*   Developed custom `Python` data analysis pipelines to parse multi-subsystem CSV telemetry records, correlating software inference load directly with real-time physical current draw and system power consumption spikes.
 
 ---
 
 ## 🧠 My Philosophy
-> "An algorithm is only as good as the hardware it can efficiently run on. I design for the constraints of the real world."
+> "Hardware and software are not separate layers—they are the boundaries of a single system. High-performance autonomy is achieved only when the physical circuit architecture and the mathematical execution path are co-optimized as a unified machine."
