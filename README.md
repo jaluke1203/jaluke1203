@@ -1,7 +1,7 @@
 # Jacob Luke
 
 ### **Hardware/Algorithm Co-Designer | Deployment Optimization for Autonomous Systems**
-📧 **Email:** [jaluke1203@gmail.com](mailto:jaluke1203@gmail.com) | 🔗 **LinkedIn:** [Your Link Here]
+📧 **Email:** [jaluke1203@gmail.com](mailto:jaluke1203@gmail.com) | 🔗 **LinkedIn:** www.linkedin.com/in/jacobluke1203
 
 I bridge the gap between physical hardware architecture and algorithmic optimization for autonomous systems operating under strict environmental and hardware constraints. My expertise lies in the true **co-design loop**: configuring physical hardware pipelines (current draw profiling, sensor integration, analog instrumentation) to maximize algorithmic execution, while simultaneously compressing deep learning and state tracking models to respect rigid hardware boundaries. 
 
