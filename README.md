@@ -5,4 +5,4 @@
 
 ### Visible Projects
 - CIFAR-100 Custom CNN
-- Neuromorphic Project
+- Neuromorph Project
