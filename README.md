@@ -13,6 +13,7 @@
 - **The ML Model:** Built and trained a Spiking Neural Network (SNN) for gesture recognition on the sparse event data of the emulated DVS camera.
 
 *Repository Name: Neuromorph-Project*
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ### (2) Multi-Task CIFAR-100 Parameter Constrained Convolutional Neural Network (CNN)
