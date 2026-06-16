@@ -6,13 +6,13 @@
 
 ## 🚀 Visible Projects
 
-### Neuromorphic Camera & Spiking Neural Network (SNN) Pipeline
+### (1) Neuromorphic Camera & Spiking Neural Network (SNN) Pipeline
 *A complete hardware-software emulation pipeline combining event-based vision with machine learning.*
 - **Software-Hardware Emulation:** Emulated a Dynamic Vision Sensor (DVS) camera to generate asynchronous event streams from standard video, paired with custom hardware verification and emulation scripts through LTSpice.
   
 - **The ML Model:** Built and trained a Spiking Neural Network (SNN) for gesture recognition on the sparse event data of the emulated DVS camera.
 
-### Multi-Task CIFAR-100 Parameter Constrained CNN 
+### (2) Multi-Task CIFAR-100 Parameter Constrained CNN 
 *An optimized, low-parameter convolutional neural network designed for dual-classification tasks on constrained hardware.*
 - **Model Architecture:** Engineered a single, high-efficiency convolutional backbone that feeds into a multi-head fully connected layer, handling both 100-class fine-grained and 20-class coarse-grained image classification simultaneously.
 
