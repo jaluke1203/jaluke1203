@@ -6,7 +6,7 @@
 ### Visible Projects
 - _**CIFAR-100 Custom CNN:**_ Custom designed CNN trained and tested on the CIFAR-100 dataset. This task involves two tasks of image classification, a 100 class classification task, and a 20 class classification task. Both are executed using 1 singular convolutional head that feeds into a multihead fully connected layer, 1 head for each task.
   
-- _**Neuromorph Project:**_ Emulated dynamic vision sensor (DVS) also known as event-based camera, simulated hardware verification, and a trained spinking neural network (SNN) that recognizes gestures through the input data of the emulated DVS sensor.
+- _**Neuromorph Project:**_ Emulated dynamic vision sensor (DVS) also known as event-based camera, simulated hardware verification, and a trained spinking neural network (SNN) that recognizes gestures through the input data of the emulated DVS camera.
 
 ### Ongoing Project
 - TBD
