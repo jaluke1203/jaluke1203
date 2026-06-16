@@ -14,7 +14,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-### (2) Multi-Task CIFAR-100 Parameter Constrained CNN 
+### (2) Multi-Task CIFAR-100 Parameter Constrained Convolutional Neural Network (CNN)
 *An optimized, low-parameter convolutional neural network designed for dual-classification tasks on constrained hardware.*
 - **Model Architecture:** Engineered a single, high-efficiency convolutional backbone that feeds into a multi-head fully connected layer, handling both 100-class fine-grained and 20-class coarse-grained image classification simultaneously.
 
