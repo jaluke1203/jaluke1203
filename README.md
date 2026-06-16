@@ -12,7 +12,7 @@
   
 - **The ML Model:** Built and trained a Spiking Neural Network (SNN) for gesture recognition on the sparse event data of the emulated DVS camera.
 
-<small>*Repository Name: Neuromorph-Project*</small>
+*Repository Hotlink: 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@
 
 - **Model Focus:** Structured specifically to optimize the machine vision pipeline, reducing computational overhead and parameter counts while maintaining classification accuracy.
 
-<small>*Repository Name: CIFAR-100-CNN-Project*</small>
+*Repository Hotlink:*
 
 
 ## ⏳ Ongoing
