@@ -12,7 +12,7 @@
   
 - **The ML Model:** Built and trained a Spiking Neural Network (SNN) for gesture recognition on the sparse event data of the emulated DVS camera.
 
-*Repository Hotlink: 
+*Repository Hotlink:* 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
