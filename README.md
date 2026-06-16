@@ -20,4 +20,4 @@
 
 
 ## ⏳ Ongoing
-— *Stay tuned
+— Stay tuned
