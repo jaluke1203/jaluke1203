@@ -6,7 +6,7 @@
 
 ## 🚀 Visible Projects
 
-### [🔗]https://github.com/jaluke1203/Neuromorph-Project)Neuromorphic Camera & Spiking Neural Network (SNN) Gesture Recognition
+### [🔗](https://github.com/jaluke1203/Neuromorph-Project)Neuromorphic Camera & Spiking Neural Network (SNN) Gesture Recognition
 *A complete hardware-software emulation pipeline combining event-based vision with machine learning.*
 - **Software-Hardware Emulation:** Emulated a Dynamic Vision Sensor (DVS) camera, also known as an event-based camera, to generate asynchronous event streams from standard video, paired with custom hardware verification and emulation scripts through LTSpice.
   
