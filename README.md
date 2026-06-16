@@ -6,7 +6,7 @@
 
 ## 🚀 Visible Projects
 
-### (1) Neuromorphic Camera & Spiking Neural Network (SNN) Pipeline
+### (1) Neuromorphic Camera & Spiking Neural Network (SNN) Gesture Recognition
 *A complete hardware-software emulation pipeline combining event-based vision with machine learning.*
 - **Software-Hardware Emulation:** Emulated a Dynamic Vision Sensor (DVS) camera to generate asynchronous event streams from standard video, paired with custom hardware verification and emulation scripts through LTSpice.
   
