@@ -1,7 +1,8 @@
 # Jacob Luke
 
 ### **Electrical & Machine Learning Engineer**
-📧 [jaluke1203@gmail.com](mailto:jaluke1203@gmail.com)  |  🔗 [linkedin.com/in/jacobluke1203](https://www.linkedin.com/in/jacobluke1203)
+📧 [jaluke1203@gmail.com](mailto:jaluke1203@gmail.com)  | 
+🔗 [linkedin.com/in/jacobluke1203](https://www.linkedin.com/in/jacobluke1203)
 
 
 ## 🚀 Visible Projects
