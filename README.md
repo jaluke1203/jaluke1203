@@ -4,7 +4,7 @@
 📧 [jaluke1203@gmail.com](mailto:jaluke1203@gmail.com)  | 🔗 [linkedin.com/in/jacobluke1203](https://www.linkedin.com/in/jacobluke1203) [Temporarily Disabled]
 
 
-## 🚀 Visible Projects
+## 🚀 Public Projects
 
 ### [🔗](https://github.com/jaluke1203/Neuromorph-Project) Neuromorphic Camera & Spiking Neural Network (SNN) Gesture Recognition
 *A complete hardware-software emulation pipeline combining event-based vision with machine learning.*
