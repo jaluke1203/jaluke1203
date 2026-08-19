@@ -22,4 +22,4 @@
 
 
 ## ⏳ Ongoing
-— New Pytorch Based Project Upcoming
+— Lightweight Computer Vision model for autonomous driving in MetaDrive Simulator
